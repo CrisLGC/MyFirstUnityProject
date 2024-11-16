@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 9a2e5ec30958dd0429bbab3421791747
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NoobGodoter'sSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 17
+        width: 244
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea92efb7bb753409cc22d51c50bc7f
+      internalID: -983068794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoobGodoter'sSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 17
+        width: 226
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f463818854e9f2409f96d9dba98ffc6
+      internalID: 190406995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoobGodoter'sSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 8
+        width: 217
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e469dfe28cd8f74a9d689651e84a378
+      internalID: 1347090706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoobGodoter'sSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 8
+        width: 191
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d972582b52c1e47b6503df12dcf736
+      internalID: -522177263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoobGodoter'sSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 8
+        width: 226
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb328162086c2745b74557ac30735b4
+      internalID: -1517442273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoobGodoter'sSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 8
+        width: 226
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbe4f8eceb682b4a9f37e5d20699913
+      internalID: -779464423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoobGodoter'sSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 17
+        width: 227
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132fd0f7d186a5348bf9817c91021a5b
+      internalID: 405528033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoobGodoter'sSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 8
+        width: 227
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d96ce0992a4d24190b5c0d1cf84004
+      internalID: 514822369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoobGodoter'sSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 8
+        width: 235
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc89ffaa9dda83f40b5f87fc74c2c78a
+      internalID: -2030460527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoobGodoter'sSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 17
+        width: 227
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d52f2367cc1fe40b526b0256424ab0
+      internalID: 629339473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NoobGodoter'sSpritesheet_0: -698549024
+      NoobGodoter'sSpritesheet_1: -983068794
+      NoobGodoter'sSpritesheet_10: -1517442273
+      NoobGodoter'sSpritesheet_11: -779464423
+      NoobGodoter'sSpritesheet_12: 2135983068
+      NoobGodoter'sSpritesheet_13: -1382737737
+      NoobGodoter'sSpritesheet_14: 405528033
+      NoobGodoter'sSpritesheet_15: 514822369
+      NoobGodoter'sSpritesheet_16: -2030460527
+      NoobGodoter'sSpritesheet_17: -1201648861
+      NoobGodoter'sSpritesheet_18: 1724433883
+      NoobGodoter'sSpritesheet_19: 629339473
+      NoobGodoter'sSpritesheet_2: 190406995
+      NoobGodoter'sSpritesheet_20: -1981182934
+      NoobGodoter'sSpritesheet_21: 415724661
+      NoobGodoter'sSpritesheet_22: 1927409331
+      NoobGodoter'sSpritesheet_23: 362271951
+      NoobGodoter'sSpritesheet_24: -1468891667
+      NoobGodoter'sSpritesheet_25: 317521278
+      NoobGodoter'sSpritesheet_26: -111403069
+      NoobGodoter'sSpritesheet_27: -888658299
+      NoobGodoter'sSpritesheet_28: 352303985
+      NoobGodoter'sSpritesheet_29: -1752387765
+      NoobGodoter'sSpritesheet_3: 867562013
+      NoobGodoter'sSpritesheet_30: 1781427031
+      NoobGodoter'sSpritesheet_4: 1347090706
+      NoobGodoter'sSpritesheet_5: 469938562
+      NoobGodoter'sSpritesheet_6: 1084807866
+      NoobGodoter'sSpritesheet_7: 1491577121
+      NoobGodoter'sSpritesheet_8: -522177263
+      NoobGodoter'sSpritesheet_9: -283566983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
